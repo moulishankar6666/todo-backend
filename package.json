@@ -1,0 +1,16 @@
+{
+  "name": "todoapplication",
+  "version": "1.0.0",
+  "description": "for assingment",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.7.0",
+    "nodemon": "^3.0.2"
+  }
+}
